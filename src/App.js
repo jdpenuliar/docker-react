@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <button onClick={() => {
           setCount(count => count + 1);
-        }}>haha</button>
+        }}>haha JD was here?</button>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
